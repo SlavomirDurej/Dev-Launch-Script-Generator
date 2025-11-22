@@ -1,0 +1,5 @@
+{
+  "name": "DevLaunch - Environment Spawner",
+  "description": "A utility to generate Windows Batch scripts for spawning multiple development environments simultaneously.",
+  "requestFramePermissions": []
+}
